@@ -67,7 +67,7 @@ Write migrations to create the following tables:
 |   1    |         Mayor          |
 |   2    |       President        |
 |   3    |        Governor        |
-|   4    | NYC Parks commissioner |
+|   4    | NYC Parks Commissioner |
 
 ##### Join Tables
 
